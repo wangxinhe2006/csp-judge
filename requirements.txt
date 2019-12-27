@@ -1,0 +1,1 @@
+dockerjudge>=0.6.1
